@@ -2,6 +2,12 @@
 Guia de Informações e Contatos para Migrantes, Refugiados e Apátridas
 
 O guia digital de acesso rápido: http://www.guiamra.cf/
+
+Dados em HTML:
+
+http://codepen.io/biketrooper/pen/BRpLWv
+
+http://codepen.io/biketrooper/pen/VbzMRQ
  
 Este site foi desenvolvido por voluntários do Code for Curitiba para facilitar o acesso ao pdf http://www.dedihc.pr.gov.br/arquivos/File/2016/guia_contatosmigrantes.pdf
 
